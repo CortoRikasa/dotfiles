@@ -35,5 +35,9 @@
 #network,
 #bluetooth,
 #tray {
-    padding-right: 1em 
+    padding-right: 0.5em
+}
+#custom-notification {
+  font-family: "NotoSansMono Nerd Font";
+  padding-right: 0.5em
 }
